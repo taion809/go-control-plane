@@ -1,5 +1,5 @@
-hash: 848ee6cec6eb07c9f25f8ba7711d34f8690ebc74b673b001c2480ecaed889069
-updated: 2019-01-03T15:13:47.274325-06:00
+hash: d1ad1a28db1a95cf563caf6b2159d7f0fdc56479ba697bd9285376b0b46fc7a6
+updated: 2019-01-04T17:38:26.499676-05:00
 imports:
 - name: github.com/envoyproxy/data-plane-api
   version: 6ad6c651384df9743caf5126c4878db646b767ac
@@ -35,6 +35,8 @@ imports:
   - validate
 - name: github.com/sirupsen/logrus
   version: bcd833dfe83d3cebad139e4a29ed79cb2318bf95
+- name: go.opencensus.io
+  version: b7bf3cdb64150a8c8c53b769fdeb2ba581bd4d4b
 - name: golang.org/x/crypto
   version: 0c41d7ab0a0ee717d4590a44bcb987dfd9e183eb
   subpackages:
